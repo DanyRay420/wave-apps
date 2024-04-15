@@ -4,7 +4,7 @@ h11==0.11.0; python_version >= "3.6" and python_full_version >= "3.6.1"
 h2o-wave<1.0
 httpcore==0.12.2; python_version >= "3.6" and python_full_version >= "3.6.1"
 httpx==0.16.1; python_version >= "3.6" and python_full_version >= "3.6.1"
-idna==2.10; python_version >= "3.6" and python_full_version >= "3.6.1"
+idna==3.7; python_version >= "3.6" and python_full_version >= "3.6.1"
 rfc3986==1.4.0; python_version >= "3.6" and python_full_version >= "3.6.1"
 sniffio==1.2.0; python_version >= "3.6" and python_full_version >= "3.6.1"
 starlette==0.13.8; python_version >= "3.6" and python_full_version >= "3.6.1"
