@@ -1,4 +1,7 @@
 h2o_wave==0.20.0
 toml==0.10.2
 loguru==0.6.0
-httpx==0.16.1
+httpx==0.23.0
+starlette>=0.40.0 # not directly required, pinned by Snyk to avoid a vulnerability
+uvicorn>=0.12.3 # not directly required, pinned by Snyk to avoid a vulnerability
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
